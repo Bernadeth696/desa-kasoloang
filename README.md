@@ -1,4 +1,4 @@
-[Desaku](https://desapagarbesi.net) merupakan sebuah web profil sederhana yang dibuat untuk Desa Kasoloang, Kec. Bambaira , Kab. Pasangkayu.
+Desaku merupakan sebuah web profil sederhana yang dibuat untuk Desa Kasoloang, Kec. Bambaira , Kab. Pasangkayu.
 
 ## Preview
 
